@@ -262,8 +262,6 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by Team PreQL for CS 411 Database Systems**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/SteamEngine)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnankonda/SteamEngine)
 
 </div>
